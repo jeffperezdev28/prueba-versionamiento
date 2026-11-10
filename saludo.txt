@@ -12,4 +12,6 @@ Jeff: ¿Cuál es el comando para subir al stage todo?
 
 Alexis: El comando para subir el satage es "git pull"
 
+Jeff: ¿Qué es una clase en programación?
+
 
