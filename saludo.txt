@@ -16,4 +16,6 @@ Jeff: ¿Qué es una clase en programación?
 
 ALEXIS: Una ejemplo de clase de programación es programación estructurada o también programación orientada a objetos
 
+Jeff: ¿Dime un tipo de interfaz que se te venga a la mente?
+
 
