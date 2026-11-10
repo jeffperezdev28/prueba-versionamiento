@@ -5,7 +5,11 @@ Jeff: ¿En que rama te ubicas?
 Alexis: Confirme ññ estoy en su rama 
 
 Gaby:Hola JEff, me encuentro en tu rama JEff_branch
+
 Alexis: Me encuentro a la rama Jeff_branch
+
 Jeff: ¿Cuál es el comando para subir al stage todo?
+
+Alexis: El comando para subir el satage es "git pull"
 
 
