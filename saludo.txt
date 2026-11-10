@@ -20,4 +20,6 @@ Jeff: ¿Dime un tipo de interfaz que se te venga a la mente?
 
 ALEXIS: La interfaz GUI
 
+Jeff: ¿Qué significan las siglas MVC en el contexto de la programación?
+
 
