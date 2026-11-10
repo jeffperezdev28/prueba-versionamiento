@@ -1,4 +1,8 @@
 hola soy Jefferson Alex Pérez Diaz estudiante de desarrollo de software
 --------------chat--------------
 Jeff: ¿En que rama te ubicas? 
+
 Alexis: Confirme ññ estoy en su rama 
+
+Gaby:Hola JEff, me encuentro en tu rama JEff_branch
+
