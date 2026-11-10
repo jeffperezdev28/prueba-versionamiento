@@ -22,4 +22,7 @@ ALEXIS: La interfaz GUI
 
 Jeff: ¿Qué significan las siglas MVC en el contexto de la programación?
 
+ALEXIS: Significa Modelo Vista Controlador 
+
+-------------Gracias por tus preguntas-----------------------------
 
