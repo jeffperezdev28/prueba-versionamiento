@@ -18,4 +18,6 @@ ALEXIS: Una ejemplo de clase de programación es programación estructurada o ta
 
 Jeff: ¿Dime un tipo de interfaz que se te venga a la mente?
 
+ALEXIS: La interfaz GUI
+
 
